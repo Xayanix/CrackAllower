@@ -1,0 +1,10 @@
+messages:
+  addedToList: '&aDodano gracza {PLAYER} do listy non premium'
+  removedFromList: '&cUsunieto gracza {PLAYER} z listy non premium'
+  listPremium: '&cLista graczy non-premium:&e {PLAYERS}'
+  invaildCommand: '&cNieprawidlowe uzycie komendy, poprawne: /premium add/remove/list [nick]'
+  isOnline: '&cGracz jest online z tym nickiem'
+  invaildName: '&cTwoj nick {nick1} jest nieprawidlowy, wejdz na nicku {nick2}'
+premiumCheckBypassPlayers:
+  - "Player1"
+  - "Player2"
